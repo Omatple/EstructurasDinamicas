@@ -1,0 +1,13 @@
+
+7
+java:S1220""Move this file to a named package.8¸­·ñ×1
+ž
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¯¶“Ü8ÃÜ¾€Ø1
+a
+java:S1854"?Remove this useless assignment to local variable "diccionario".(äÕúåÿÿÿÿÿ8¸­·ñ×1
+R
+java:S1481"0Remove this unused "diccionario" local variable.(äÕúåÿÿÿÿÿ8¸­·ñ×1
+O
+java:S1172"2Remove this unused method parameter "diccionario".(¯¶“Ü8ÏÜ¾€Ø1
+U
+java:S1144"8Remove this unused private "imprimirDiccionario" method.(¯¶“Ü8¸­·ñ×1

@@ -1,0 +1,18 @@
+
+
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(­Ωµ„8ιβ‚Ψ1J$aa0be978-7973-43ca-9c42-c11bce40cdbb
+΅
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ύΪόβώÿÿÿÿ8”ιβ‚Ψ1J$621c093f-965e-4b60-af3b-111174d10488
+]
+java:S1700"Rename field "diccionario"(­Ωµ„8”ιβ‚Ψ1J$9b957b0c-6029-4c19-96c9-8805e36836c3
+Δ
+java:S1186
+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(όΔ›π8™ιβ‚Ψ1J$73665aef-985a-46ed-83d2-a933ba656e14
+|
+java:S2864$"4Iterate over the "entrySet" instead of the "keySet".(‰ΏΘεϊÿÿÿÿ8ιβ‚Ψ1J$9a1c87bf-34cc-4c75-91b7-aea37289dac3
+”
+java:S3457%"Q%n should be used in place of \n to produce the platform-specific line separator.(ΓƒΘτ8ιβ‚Ψ1J$e8935e01-a27e-47a5-bcbc-e84284097c1d
+™
+java:S3457'"Q%n should be used in place of \n to produce the platform-specific line separator.(δ‡ ώÿÿÿÿ8ιβ‚Ψ1J$c421bcd9-0335-4542-8508-c90e0c84e068
+“
+java:S3457+"Q%n should be used in place of \n to produce the platform-specific line separator.(£Ό)8ιβ‚Ψ1J$7c4ed1fd-0c33-4f9d-9f67-bb474875dd82
